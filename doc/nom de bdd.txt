@@ -1,0 +1,5 @@
+name of bdd : fpec
+user : root
+mdp : (aucun)
+
+fichier de configuration de base de données -> config.php
